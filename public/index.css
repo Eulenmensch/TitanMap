@@ -1,14 +1,9 @@
-#img {
-  display: block;
-  margin: auto;
-  height: 128px;
-  width: 128px;
-  padding: 2rem;
+body {
+    height: 100vh;
+    margin: 0;
 }
 
-#canvas {
-  display: block;
-  margin: 2rem auto;
-  width: 540px;
-  height: 540px;
+#map {
+    height: 100%;
+    width: 100%;
 }
